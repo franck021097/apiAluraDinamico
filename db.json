@@ -1,0 +1,46 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "descripcion": "3 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/QjOWz9avkg8",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "¿Qué es JavaScript? - Curso de JavaScript desde cero",
+      "descripcion": "5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Introducción a React - Aprende los conceptos básicos",
+      "descripcion": "2 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Python para principiantes - Curso completo en Español",
+      "descripcion": "10 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Curso de Git y GitHub desde cero",
+      "descripcion": "8 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/RGOj5yH7evk",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Filtraron el Algoritmo de Google Search",
+      "descripcion": "3964 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/_-hjNLPwVcY",
+      "imagen": "https://yt3.ggpht.com/ytc/AIdro_lPBcTSzb5NqMhKQSo6aaTPcnPM2EZhvhdcQi0YvPmflQ=s88-c-k-c0x00ffffff-no-rj",
+      "id": 6
+    }
+  ]
+}
